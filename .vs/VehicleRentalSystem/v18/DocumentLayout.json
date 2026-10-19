@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VehicleRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|d:\\vehiclerentalsystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\rentalmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:rentalmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|d:\\vehiclerentalsystem\\rentalmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:rentalmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\myrentalsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:myrentalsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|d:\\vehiclerentalsystem\\formutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:formutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|d:\\vehiclerentalsystem\\databasesetup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:databasesetup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|d:\\vehiclerentalsystem\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|d:\\vehiclerentalsystem\\availablevehiclesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:availablevehiclesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\availablevehiclesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:availablevehiclesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|d:\\vehiclerentalsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|d:\\vehiclerentalsystem\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\rentalactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:rentalactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\vehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:vehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\myrentalsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:myrentalsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|D:\\VehicleRentalSystem\\vehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:vehicleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|d:\\vehiclerentalsystem\\databasesetup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{7359C37B-4ECC-4EFA-9966-59AB3D1099C6}|VehicleRentalSystem.csproj|solutionrelative:databasesetup.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\RegistrationForm.cs",
+              "RelativeToolTip": "RegistrationForm.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:53:40.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\DataAccess.cs",
+              "RelativeToolTip": "DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:09:15.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\RentalManagementForm.cs",
+              "RelativeDocumentMoniker": "RentalManagementForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\RentalManagementForm.cs [Design]",
+              "RelativeToolTip": "RentalManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:08:27.219Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:08:21.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentalManagementForm.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\RentalManagementForm.cs",
+              "RelativeDocumentMoniker": "RentalManagementForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\RentalManagementForm.cs",
+              "RelativeToolTip": "RentalManagementForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:50:10.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyRentalsForm.cs [Design]",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\MyRentalsForm.cs",
+              "RelativeDocumentMoniker": "MyRentalsForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\MyRentalsForm.cs [Design]",
+              "RelativeToolTip": "MyRentalsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:06:29.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "CustomerForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:08:10.51Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:06:42.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormUtilities.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\FormUtilities.cs",
+              "RelativeDocumentMoniker": "FormUtilities.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\FormUtilities.cs",
+              "RelativeToolTip": "FormUtilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T11:02:40.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseSetup.sql ",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\DatabaseSetup.sql",
+              "RelativeDocumentMoniker": "DatabaseSetup.sql",
+              "ToolTip": "D:\\VehicleRentalSystem\\DatabaseSetup.sql",
+              "RelativeToolTip": "DatabaseSetup.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-12T08:49:31.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDashboard.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "CustomerDashboard.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\CustomerDashboard.cs",
+              "RelativeToolTip": "CustomerDashboard.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:47:44.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "CustomerDashboard.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\CustomerDashboard.cs [Design]",
+              "RelativeToolTip": "CustomerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:08:08.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:07:43.21Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AvailableVehiclesForm.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\AvailableVehiclesForm.cs",
+              "RelativeDocumentMoniker": "AvailableVehiclesForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\AvailableVehiclesForm.cs",
+              "RelativeToolTip": "AvailableVehiclesForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwMcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:43:25.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AvailableVehiclesForm.cs [Design]",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\AvailableVehiclesForm.cs",
+              "RelativeDocumentMoniker": "AvailableVehiclesForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\AvailableVehiclesForm.cs [Design]",
+              "RelativeToolTip": "AvailableVehiclesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:08:05.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\AdminDashboard.cs",
+              "RelativeToolTip": "AdminDashboard.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:13:32.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:06:06.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\UserSession.cs",
+              "RelativeDocumentMoniker": "UserSession.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\UserSession.cs",
+              "RelativeToolTip": "UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:20:37.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RentalActions.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\RentalActions.cs",
+              "RelativeDocumentMoniker": "RentalActions.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\RentalActions.cs",
+              "RelativeToolTip": "RentalActions.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T11:02:02.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VehicleForm.cs [Design]",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\VehicleForm.cs",
+              "RelativeDocumentMoniker": "VehicleForm.cs",
+              "ToolTip": "D:\\New folder (4)\\VehicleRentalSystem\\VehicleForm.cs [Design]",
+              "RelativeToolTip": "..\\New folder (4)\\VehicleRentalSystem\\VehicleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:08:29.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:06:44.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyRentalsForm.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\MyRentalsForm.cs",
+              "RelativeDocumentMoniker": "MyRentalsForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\MyRentalsForm.cs",
+              "RelativeToolTip": "MyRentalsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:06:33.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VehicleForm.cs",
+              "DocumentMoniker": "D:\\VehicleRentalSystem\\VehicleForm.cs",
+              "RelativeDocumentMoniker": "VehicleForm.cs",
+              "ToolTip": "D:\\VehicleRentalSystem\\VehicleForm.cs",
+              "RelativeToolTip": "VehicleForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:08:32.364Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
